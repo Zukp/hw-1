@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.Cont__photo{
+    margin: auto 400px;
+}
+.Cont__photo h2{
+   border: 3px solid black;
+   width: 400px;
+   height:100px;
+   padding-top: 30px;
+   text-align: center;
+   position: relative;
+   top: 120px;
+   left: 206px;
+   border-radius: 10px;
+   background-color: #008B8B;
+}
+.Cont__photo img{
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.Cont__photo p{
+    border: 3px solid black;
+    padding: 50px;
+    width: 609px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    border-radius: 10px;
+    background-color: #008080;
+    color: wheat;
+}
